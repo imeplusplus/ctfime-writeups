@@ -1,0 +1,4 @@
+Título: Como não fazer Login
+Descrição: Essa é uma das formas as quais você com certeza não deve usar no seu site para realizar login.
+Hint: Sem comentários
+Flag: CTFIME{wr0ng_w4y_0f_h4ndl1ng_l0g1n}
