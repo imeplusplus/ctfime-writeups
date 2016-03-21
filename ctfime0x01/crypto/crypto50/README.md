@@ -1,4 +1,4 @@
-![crypto50](../_images/crypto50.png)
+![crypto50](../../_images/crypto50.png)
 
 Essa provavelmente foi a questão mais fácil da competição e resolvida por praticamente todas as equipes.
 
