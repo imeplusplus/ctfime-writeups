@@ -1,3 +1,6 @@
+![crypto50](../_images/crypto50.png)
+Format: ![crypto50](url)
+
 Essa provavelmente foi a questão mais fácil da competição e resolvida por praticamente todas as equipes.
 
 O anexo nos dava um arquivo .txt contendo a string:
