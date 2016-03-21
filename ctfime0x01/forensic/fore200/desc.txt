@@ -1,0 +1,5 @@
+Título: grep the flag!
+Texto:
+Hint: recursividade
+Anexos: fore200
+Flag: s0_4_t0r4_r3v1g0r4

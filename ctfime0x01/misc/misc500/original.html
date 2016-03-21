@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <script src="jquery-2.2.1.min.js"></script>
+    <style>
+.text {
+  color: #ccc;
+  position: relative;
+  top: 0;
+  font-size: 200px;
+  font-family: monospace, "Sans-serif";
+  font-weight: 500;
+}
+
+.line {
+  position: absolute;
+  top: 200;
+  height: 2px;
+}
+
+.hidden { overflow: hidden; }
+.hidden .text { color: black; }
+
+/* debug */
+/*
+.hidden { background-color: grey; overflow: visible; }
+*/
+    </style>
+  </head>
+  <body>
+    <div class="line"><div class="text">D</div></div>
+    <div class="line hidden"><div class="text">DIMENSIONS</div></div>
+
+    <script>
+function anim() {
+  $('.text').css('top', 10);
+  $('.text').animate({top: -210}, 3000, 'linear', anim);
+}
+anim();
+    </script>
+  </body>
+</html>

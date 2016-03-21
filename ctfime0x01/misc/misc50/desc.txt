@@ -1,0 +1,5 @@
+Título: Isso é tudo que vc vê?
+Texto: Toda imagem possui dados sobre seus dados...
+PS.: Insira a flag como CTFIME{O_QUE_VC_ENCONTROU}
+Hint: exif
+Anexos: misc50.jpg

@@ -1,0 +1,6 @@
+Título: ROP the function return
+Texto: Entender como um programa armazena sua informação é muito importante para descobrir como se pode mudar o fluxo e obter informação. Roube a flag executando a função print_flag!
+P.S.: Para rodar o programa 32bit no Kali: apt-get install lib32gcc1
+Hint: Para onde a função retorna depois que acaba de executar?
+Anexos: binexp500.zip
+Flag: nice_job_controlling_eip

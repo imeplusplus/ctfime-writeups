@@ -1,0 +1,5 @@
+Título: QR um code?
+Texto: Computação é mais que ciência. É mais que engenharia. Computação é mágica!
+Hint: Alguns números em um arquivo são realmente mágicos.
+Anexos: misc150.zip
+Flag: CTFIME{l4b_s38}

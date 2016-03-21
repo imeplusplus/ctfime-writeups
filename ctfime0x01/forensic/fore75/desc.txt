@@ -1,0 +1,6 @@
+Título: unzip the FILE?
+Texto: Nem tudo é o que parece
+Hint: Extensões de arquivos são tão úteis quanto o Window$
+Anexos: fore75
+Flag: CTFIME{try_h4rd3r}
+
