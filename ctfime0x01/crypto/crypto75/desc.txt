@@ -1,0 +1,4 @@
+Título: S.O.S
+Texto: Como vc se comunica usando uma moeda e uma mesa?
+Hint: use os ouvidos
+Anexos: crypto75.wav
