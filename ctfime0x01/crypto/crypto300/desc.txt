@@ -1,0 +1,5 @@
+Título: X-cripto
+Texto: Toda função criptográfica que se preze precisa ter um jeito de voltar para o texto em claro. Algumas funções matemáticas bastante simples são muito usadas como via de mão-dupla devido às suas propriedades. A utilização muito simplificada dessas funções, entretanto, pode tornar a criptografia muito simples de ser quebrada.
+Hint: Use o output dado para encontrar a chave
+Anexos: crypto300.txt
+Flag: CTFIME{n40_m0c4r45_0_b1zu}
