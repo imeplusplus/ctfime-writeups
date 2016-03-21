@@ -5,7 +5,7 @@
 ![Scoreboard](_images/scoreboard.png)
 
 ##Concluídos
-- Crypto50
+- [Crypto50](crypto/crypto50)
 
 ##ToDo
 - Crypto75
