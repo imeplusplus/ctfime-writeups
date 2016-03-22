@@ -6,7 +6,7 @@ O texto e a dica não deixam dúvidas de que a mensagem se trata de um código M
 
 Com a ajuda da [tabela abaixo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/315px-International_Morse_Code.svg.png) é possível comparar os padrões visuais e esquecer o auditivo (mais difícil de reconhecer).
 
-![Alfabeto Morse](../../_images/morse.jpg)
+![Alfabeto Morse](../../_images/morse.png)
 
 FLAG: *CTFIME{v3mpr4c0mp}*
 
