@@ -6,9 +6,10 @@
 
 ##Concluídos
 - [Crypto50](crypto/crypto50)
+- [Crypto75](crypto/crypto75)
+
 
 ##ToDo
-- Crypto75
 - Crypto100
 - Crypto150
 - Binexp200
