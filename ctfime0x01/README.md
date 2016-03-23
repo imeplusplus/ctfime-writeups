@@ -1,6 +1,6 @@
 - Data: 18/03/16
 - Duração: 48h
-- http://200.20.120.132/ (acesso via VPN somente)
+- http://200.20.120.132/
 
 ##Scoreboard
 ![Scoreboard](_images/scoreboard.png)
