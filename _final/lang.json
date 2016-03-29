@@ -1,0 +1,153 @@
+{
+  "english": {
+    "frame": {
+      "title": "CTFIME 0x0",
+      "toggle": "Toggle navigation",
+      "login": "Sign in",
+      "register": "Register",
+      "logged_in": "Logged in as",
+      "logout": "log out"
+    },
+    "main": {
+      "title": "IMESEC - CTFIME 0x0",
+      "text": "Primeiro Capture The Flag realizado pela IME++/IMESEC"
+    },
+    "about": {
+      "title": "About",
+      "news": "News",
+      "news_text": "Aproveitem as 48h para ver todas as questões, procurarem na internet, conversar com os outros da equipe.<br>O objetivo desse Capture The Flag é incentivar que todos pesquisem como as coisas funcionam, então aproveitem  para aprender!",
+      "rules": "Rules",
+      "rules_text": "- Equipes de até 3 pessoas utilizando apenas uma conta<br>- Toda consulta é válida e recomendada<br>- As flags devem ser submetidas com o formato: CTFIME{FLAG}"
+    },
+    "tasks": {
+      "title": "Tasks"
+    },
+    "task": {
+      "description": "Description",
+      "attachment": "Attachment",
+      "submit": "Submit",
+      "success": "Correct flag!",
+      "failure": "Incorrect flag",
+      "points_format": "%d points",
+      "solution_format": "solved by %d",
+      "no_description": "(none)",
+      "placeholder": "CTFIME{insert_flag}",
+      "hint": "Hint",
+      "no_hint": "(none)",
+      "show_hint": "Show"
+    },
+    "addcat" : {
+      "title": "Add a Category",
+      "name_label": "Category Name: "
+    },
+    "addtask" : {
+      "add_title": "Add a Task",
+      "edit_title": "Edit a Task",
+      "delete_title": "Delete task",
+      "delete_desc": "Are you sure you want to delete this task?",
+      "cat_label": "Category: ",
+      "name_label": "Task Name: ",
+      "description_label": "Description: ",
+      "hint_label": "Hint: ",
+      "flag_label": "Flag: ",
+      "score_label": "Score: "
+    },
+    "scoreboard": {
+      "title": "Scoreboard",
+      "player": "Player",
+      "score": "Score"
+    },
+    "chat":{
+      "title": "Chat"
+    },
+    "error": {
+      "title": "Error",
+      "unknown": "Unknown error",
+      "login_required": "You need to be logged in to see this page",
+      "admin_required": "You need to be an admin to see this page",
+      "invalid_credentials": "Invalid username or password",
+      "already_registered": "This user is already registered",
+      "empty_user": "Empty username is not allowed",
+      "task_not_found": "TBD",
+      "form": "Invalid form input",
+      "not_started": "Competition hasn't started yet",
+      "finished": "Competition has already ended"
+    }
+  },
+
+  "portugues": {
+    "frame": {
+      "title": "CTFIME",
+      "toggle": "Mudar navegação;",
+      "login": "Entrar",
+      "register": "Registrar",
+      "logged_in": "Logado como",
+      "logout": "sair"
+    },
+    "main": {
+      "title": "CTFIME 0x01",
+      "text": "Seja bem vindo ao primeiro CTFIME!"
+    },
+    "about": {
+      "title": "Sobre",
+      "news": "Novidades",
+      "news_text": "Aproveitem as 48h para ver todas as questões, procurarem na internet, conversar com os outros da equipe.<br>O objetivo desse Capture The Flag é incentivar que todos pesquisem como as coisas funcionam, então aproveitem  para aprender!",
+      "rules": "Regras",
+      "rules_text": "- Equipes de até 3 pessoas utilizando apenas uma conta<br>- Toda consulta é válida e recomendada<br>- As flags devem ser submetidas com o formato: CTFIME{FLAG}"
+    },
+    "tasks": {
+      "title": "Tarefas"
+    },
+    "task": {
+      "description": "Descrição",
+      "attachment": "Anexo",
+      "submit": "Enviar",
+      "success": "FLAG CORRETA!",
+      "failure": "Flag incorreta!",
+      "points_format": "%d pontos",
+      "solution_format": "Resolvido por %d",
+      "no_description": "(sem descrição)",
+      "placeholder": "CTFIME{insira a flag aqui}",
+      "hint": "Dica",
+      "no_hint": "(sem dicas)",
+      "show_hint": "Mostrar"
+    },
+    "addcat" : {
+      "title": "Adicionar categoria",
+      "name_label": "Nome da categoria: "
+    },
+    "addtask" : {
+      "add_title": "Adicionar tarefa",
+      "edit_title": "Editar tarefa",
+      "delete_title": "Deletar tarefa",
+      "delete_desc": "Tem certeza de que deseja deletar esta tarefa?",
+      "cat_label": "Categoria: ",
+      "name_label": "Nome da tarefa: ",
+      "description_label": "Descrição: ",
+      "hint_label": "Dica: ",
+      "flag_label": "Flag: ",
+      "score_label": "Pontuação: "
+    },
+    "scoreboard": {
+      "title": "Scoreboard",
+      "player": "Player",
+      "score": "Pontuação"
+    },
+    "chat":{
+      "title": "Chat"
+    },
+    "error": {
+      "title": "Erro",
+      "unknown": "Erro desconhecido",
+      "login_required": "Você precisa se logar para ver esta página",
+      "admin_required": "Você precisa ser admin para ver esta página",
+      "invalid_credentials": "Nome de usuário ou senha incorretos",
+      "already_registered": "Este usuário já existe",
+      "empty_user": "Usuário vazio não permitido",
+      "task_not_found": "TBD",
+      "form": "Entrada inválida",
+      "not_started": "A competição ainda não começou!",
+      "finished": "A competição já acabou!"
+    }
+  }
+}

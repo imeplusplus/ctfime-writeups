@@ -1,0 +1,18 @@
+{
+    "secret_key": "imepprules",
+    
+    "host": "0.0.0.0",
+    "port": 4444,
+
+    "isProxied": false,
+
+    "startTime": "3-18-16 15:30PM",
+    "endTime": "3-22-16 12:00PM",
+    
+    "db": "sqlite:///ctf.db",
+    
+    "language_file": "lang.json",
+    "language": "portugues",
+
+    "debug": true
+}
